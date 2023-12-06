@@ -1,0 +1,24 @@
+.wrapperHome {
+  width: 100vw;
+  padding: 40px;
+  padding-top: 100px;
+  display: grid;
+  /* flex-wrap: wrap; */
+  /* flex-direction: row; */
+  /* align-items: flex-start; */
+  gap: 40px;
+  grid-template-columns: 1fr 1fr 1fr;
+  background-color: #f0f2f5;
+}
+
+.wrapperPost {
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+}
+
+.wrapperImg {
+  padding-top: 20px;
+  height: calc(100% - 45px);
+  overflow: hidden;
+}
