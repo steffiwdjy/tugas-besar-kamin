@@ -1,4 +1,4 @@
-# Tugas Besar RPL Kelompok D
+# Tugas Besar Keamanan Informasi Kelompok 6
 
 ### `npm run build` fails to minify
 
